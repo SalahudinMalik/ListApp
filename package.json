@@ -1,0 +1,16 @@
+{
+  "name": "listapp",
+  "version": "1.0.0",
+  "description": "todo app with google api",
+  "main": "quickstart.js",
+  "dependencies": {
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^22.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
